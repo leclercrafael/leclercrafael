@@ -1,8 +1,6 @@
-## Hi there 👋
-
-# 💫 About Me:
-🔭 I’m currently working on ML and POO projects in Python.<br>🌱 I’m currently learning Deep Learning stacks.
-
+#  About Me:
+I’m currently working on ML and POO projects in Python.<br> I’m currently learning Deep Learning stacks.
+<br> I have several repositeries for my work. I have done during the last months hackatons, projects in Python, Kaggle competitions and ML/Maths/Optimization projets.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafaël-leclerc-87958a275/) 
