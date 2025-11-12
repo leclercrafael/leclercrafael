@@ -1,5 +1,5 @@
 #  About Me:
-I’m currently working on ML and POO projects in Python.<br> I’m currently learning Deep Learning stacks.
+I’m currently working on ML and OOP projects in Python.<br> I’m currently learning Deep Learning stacks.
 <br> I have several repositeries for my work. I have done during the last months hackatons, projects in Python, Kaggle competitions and ML/Maths/Optimization projets.
 
 ## 🌐 Socials:
