@@ -1,5 +1,5 @@
 #  About Me:
-I’m currently working on ML, GenAI, and graph projects in Python.<br> I’m currently learning Deep Learning stacks.
+I’m currently working on ML, GenAI, and graph projects in Python.
 <br> I have several repositeries for my work. I have done during the last months hackatons, projects in Python, Kaggle competitions and ML/Maths/GenAI/Optimization projets.
 
 ## 🌐 Socials:
